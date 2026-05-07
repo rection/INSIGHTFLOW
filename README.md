@@ -37,6 +37,7 @@ InsightFlow 是一个基于 AI 的资讯编排工具，工作流程为：
 **核心价值**：将新闻检索、内容编排、格式适配三步合一，节省内容创作者的信息处理时间。
 
 ---
+<img width="1872" height="914" alt="image" src="https://github.com/user-attachments/assets/39d29fee-160b-4d6e-ae08-ee198e22b70d" />
 
 ## 2. 技术栈
 
